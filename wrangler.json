@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lamarche-dev-comments",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0ea3189a-dd5b-4794-82ca-288fddb09cd2",
+			"database_name": "lamarche-dev-comments"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
